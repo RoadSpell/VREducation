@@ -20,8 +20,6 @@ public class NetworkManager : MonoBehaviourPunCallbacks
 
     public void ConnectToMaster()
     {
-        
-        
         PhotonNetwork.OfflineMode = false;
         PhotonNetwork.NickName = "Tester";
         PhotonNetwork.AutomaticallySyncScene = true; //Required for PhotonNetwork.LoadLevel()
