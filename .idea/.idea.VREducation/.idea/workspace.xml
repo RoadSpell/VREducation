@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4c6e9049-6d91-4c09-a6f0-f41bdd19cde5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VREducation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VREducation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lobby.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lobby.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NetworkManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,9 @@
       <updated>1681830153605</updated>
       <workItem from="1681830155114" duration="78000" />
       <workItem from="1681904430706" duration="698000" />
-      <workItem from="1683375477053" duration="6673000" />
+      <workItem from="1683375477053" duration="7012000" />
+      <workItem from="1683825642063" duration="472000" />
+      <workItem from="1683832739395" duration="1353000" />
     </task>
     <servers />
   </component>
