@@ -20,6 +20,7 @@ public class NetworkManager : MonoBehaviourPunCallbacks
     private void Start()
     {
         ConnectToMaster();
+        PhotonNetwork.AutomaticallySyncScene = true;
     }
 
 
@@ -144,6 +145,12 @@ public class NetworkManager : MonoBehaviourPunCallbacks
         {
             PhotonNetwork.LeaveLobby();
         }
+    }
+
+    public void StartCourse(string sceneName)
+    {
+        if (PhotonNetwork.IsMasterClient)
+            PhotonNetwork.LoadLevel(sceneName);
     }
 
     private void ClearRooms()
