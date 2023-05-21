@@ -72,6 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #Ffmpeg
-/[Aa]ssets/
+/[Aa]ssets/Plugins/FfmpegUnity
 /[Aa]ssets/FfmpegUnity.meta
 
