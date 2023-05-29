@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class ClassRoomManager : MonoBehaviour
 {
+    [SerializeField] private GameObject recordingCamera;
     [SerializeField] private GameObject teacherPrefab;
     [SerializeField] private Transform teacherSpawnTransform;
     [SerializeField] private GameObject studentPrefab;
@@ -16,7 +17,8 @@ public class ClassRoomManager : MonoBehaviour
         {
             if (PhotonNetwork.IsMasterClient)
             {
-                var teacher = PhotonNetwork.Instantiate(teacherPrefab.name, teacherSpawnTransform.position, Quaternion.identity);
+                var teacher = PhotonNetwork.Instantiate(teacherPrefab.name, teacherSpawnTransform.position,
+                    Quaternion.identity);
                 Debug.Log("Teacher is: " + teacher.name);
             }
 
@@ -32,5 +34,6 @@ public class ClassRoomManager : MonoBehaviour
     void Start()
     {
         SpawnClients();
+        recordingCamera.SetActive(true);
     }
 }
