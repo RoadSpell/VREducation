@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4c6e9049-6d91-4c09-a6f0-f41bdd19cde5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VREducation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VREducation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Resources/ZomBunny.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Resources/ZomBunny.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/StudentPlaceholder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/StudentPlaceholder.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/TeacherPlaceholder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/TeacherPlaceholder.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ScreenShareTests/NormalClassRoomScreenShare.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ScreenShareTests/NormalClassRoomScreenShare.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClassRoomManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClassRoomManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uWindowCapture.log" beforeDir="false" afterPath="$PROJECT_DIR$/uWindowCapture.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +119,7 @@
       <workItem from="1684297269670" duration="1306000" />
       <workItem from="1684874909733" duration="77000" />
       <workItem from="1684875594167" duration="6003000" />
+      <workItem from="1685363791154" duration="1970000" />
     </task>
     <servers />
   </component>
